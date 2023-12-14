@@ -1,0 +1,5 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansMedium.ttf"); font-family : "IBM Plex Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSans.ttf"); font-family : "IBM Plex Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/IBMPlexSansSemiBold.ttf"); font-family : "IBM Plex Sans"; font-weight : 600;  }
